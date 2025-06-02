@@ -15,8 +15,5 @@ This project demonstrates Git best practices in a DevOps context. It uses GitHub
 - Documentation in Markdown
 - `.gitignore` for clean repo
 
-## 🏁 Getting Started
-```bash
-git clone https://github.com/yourusername/devops-git-project.git
-cd devops-git-project
+
 
